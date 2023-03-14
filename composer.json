@@ -1,5 +1,5 @@
 {
-    "name": "messerli90/hunterio",
+    "name": "jeka-bit/hunterio",
     "description": "Laravel wrapper to discover email addresses through the Hunter.io API",
     "keywords": [
         "messerli90",
@@ -8,20 +8,19 @@
         "api",
         "wrapper"
     ],
-    "homepage": "https://github.com/messerli90/hunterio",
+    "homepage": "https://github.com/JEkA-bit/hunterio",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Michael Messerli",
-            "email": "michaelamesserli@gmail.com",
+            "name": "Radomskyi Yevhenii",
+            "email": "jenia999jenia9999@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "guzzlehttp/guzzle": "^7.0",
-        "illuminate/http": "^8.0"
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",

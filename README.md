@@ -31,7 +31,7 @@ Hunter::emailFinder()->company('Ghost')->name('John Doe')->get();
 You can install the package via composer:
 
 ```bash
-composer require messerli90/hunterio
+composer require jeka-bit/hunterio
 ```
 
 You'll need an [API key](https://hunter.io/api) from Hunter.io
